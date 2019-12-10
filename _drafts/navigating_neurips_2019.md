@@ -41,3 +41,8 @@ This provides easily interpretable classification systems.
 
 2. A New Defense Against Adversarial Images: Turning a Weakness into a Strength
 
+Problem the paper is trying to solve - Adversarial images in high dimensional spaces.
+
+Approach - They use the property that adversarial images are easy to find and omnipresent to turn this information
+that is generaully used as an attack into a defence.
+
