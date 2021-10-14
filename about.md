@@ -3,13 +3,10 @@ layout: page
 title: About
 ---
 
-Hello.
+Nice to meet you.
 
-I am currently working as Research Assistant at Indian Institute of Technology, Gandhinagar.
-My topics of interest are: Machine Learning, Deep Learning, Data Science. <br>
-When I am not glued to the computer screen, I will be found reading classics or watching tv shows. Some of my favorite authors are Charlotte Bronte, Charles Dickens and Elizabeth Gaskell. 
-An informal blog dedicated to books, tv shows and random things: [http://desaideshna.wordpress.com/](http://desaideshna.wordpress.com/)
+Here's a little bit about me: I completed my Bachelor's degree from DAIICT in 2016. I pursued a Masters in Computer Science at NYU Courant after that. After graduating in 2019, I have been working at AiCure. I am passionate about programming, optimizing processes, deep learning and computer vision. I don't post very often but I am trying to change that. In my spare time, I like to watch korean dramas, play board games or explore new places in NYC.
 
-**You can reach me at desai dot deshna at gmail dot com..**
+**You can reach me at dkd266@nyu.edu**
 
 Enjoy!
