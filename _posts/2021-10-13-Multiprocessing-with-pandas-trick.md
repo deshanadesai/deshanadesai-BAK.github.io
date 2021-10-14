@@ -33,7 +33,9 @@ class Projection:
         return rows
 ```
 Since we have a finite number of cores, we first calculate the number of cores to be used. Then the next task is to split the dataframe into multiple chunks (a quick google search showed the most efficient way to do this would be using the numpy array_split function - the function handles the case when the split may not be exact for each chunk).
-Next, we initialize the pool object as before, return the modified dataframe chunk from the projection function and use the pandas concat function to concatenate all the modified chunks together. With this, we have the modified dataframe that can be used for further processing.
+
+
+Next, we call the pool object as usual but this time we return the modified dataframe chunk from the projection function and use the pandas concat function to concatenate all the modified chunks together. With this, we have the modified dataframe that can be used for further processing.
     
 ``` 
     proj = Projection(ori, axX, axY, axZ)
